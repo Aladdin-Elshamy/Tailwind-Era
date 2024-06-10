@@ -30,7 +30,6 @@ The Tailwind Era website is a demonstration of a sleek and modern web page desig
 - **HTML5**: The standard markup language used to create and structure the content on the web.
 - **Tailwind CSS**: A utility-first CSS framework that provides a robust set of design utilities out of the box. Tailwind allows for rapid UI development by applying pre-defined classes directly in the HTML.
   - **Responsive Utilities**: Tailwind includes responsive utilities that help in creating designs that work on all screen sizes.
-  - **Customizable**: Tailwind’s configuration file allows for extensive customization of styles to fit any design needs.
 - **JavaScript**: A programming language used to create interactive effects within web browsers. JavaScript enhances the user experience by allowing for dynamic content updates and interactive elements.
 
 ## Installation
